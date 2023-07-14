@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1689361308302' stop='1689361311158'>
+    <name>Validar o endpoint /people</name>
+    <title>Validar o endpoint /people</title>
+    <test-cases>
+        <test-case start='1689361308302' status='failed' stop='1689361311117'>
+            <name>Validar o método GET</name>
+            <title>Validar o método GET</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expected '172' to be a number</message>
+                <stack-trace>AssertionError: expected '172' to be a number
+                    at Context.eval (webpack:///./cypress/integration/api-tests/people.spec.js:10:53)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

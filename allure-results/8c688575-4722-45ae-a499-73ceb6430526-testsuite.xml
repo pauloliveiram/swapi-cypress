@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1689360505256' stop='1689360536663'>
+    <name>Validar o endpoint /films</name>
+    <title>Validar o endpoint /films</title>
+    <test-cases>
+        <test-case start='1689360505256' status='failed' stop='1689360536620'>
+            <name>Validar o método GET</name>
+            <title>Validar o método GET</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>expected '1977-05-25' to be a date</message>
+                <stack-trace>AssertionError: expected '1977-05-25' to be a date
+                    at Context.eval (webpack:///./cypress/integration/api-tests/films.spec.js:14:59)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

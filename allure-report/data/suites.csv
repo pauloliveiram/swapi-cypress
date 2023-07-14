@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jul 14 16:02:51 BRT 2023","Fri Jul 14 16:02:52 BRT 2023","1326","","Validar o endpoint /films/{id}","","Validar o endpoint /films/{id}","Validar o método GET","Validar o método GET",""
+"failed","Fri Jul 14 16:02:53 BRT 2023","Fri Jul 14 16:02:56 BRT 2023","2505","","Validar o endpoint /people","","Validar o endpoint /people","Validar o método GET","Validar o método GET",""
+"passed","Fri Jul 14 16:02:44 BRT 2023","Fri Jul 14 16:02:49 BRT 2023","4969","","Validar o endpoint /films","","Validar o endpoint /films","Validar o método GET","Validar o método GET",""

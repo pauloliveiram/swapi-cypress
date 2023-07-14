@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1689362327821' stop='1689362328799'>
+    <name>Validar o endpoint /people/{id}</name>
+    <title>Validar o endpoint /people/{id}</title>
+    <test-cases>
+        <test-case start='1689362327821' status='passed' stop='1689362328798'>
+            <name>Validar o método GET</name>
+            <title>Validar o método GET</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
